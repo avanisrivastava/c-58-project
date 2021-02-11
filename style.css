@@ -1,0 +1,32 @@
+#pic {
+    width: 550px;
+    height: 460px;
+
+}
+
+body {
+    text-align: center;
+    background-color: background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+
+
+}
+.menu{
+    list-style:none;
+    font-family: serif;
+    position: absolute;
+    z-index:10;
+    top:10px;
+    right: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    
+}
+.links{
+    float:left;
+    color: crimson;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
